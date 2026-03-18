@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sql,python,pandas,postgres,bigquery,dbt,gcp,powerbi,looker,excel,git,githubactions,pytest,numpy,matplotlib" alt="Core skills icons" />
+    <img src="https://skillicons.dev/icons?i=sql,python,pandas,postgres,bigquery,dbt,gcp,powerbi,looker,excel,git,githubactions,pytest,numpy,matplotlib&v=1" alt="Core skills icons" />
   </a>
 </p>
 
