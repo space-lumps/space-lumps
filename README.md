@@ -109,7 +109,7 @@ Tracks liquidity, yields, volatility, and USD strength to contextualize crypto/i
 
 ### 📊 Activity Snapshot
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=space-lumps&theme=blue-green)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=space-lumps&theme=blue-green)](https://git.io/streak-stats)
 
 ### 📬 Connect & Explore
 
