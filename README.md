@@ -92,11 +92,13 @@ Tracks liquidity, yields, volatility, and USD strength to contextualize crypto/i
 - Daily automated updates
 - Clean, public-facing design
 
+<br>
+
 <div align="center">
   <img src="assets/images/aqua-divider.png" width="100%" alt="Aqua gradient divider line" />
 </div>
 
-### 🧰 Core Skills
+<div align="center">
 
 #### Languages
 ![SQL](https://img.shields.io/badge/SQL-00979C?style=for-the-badge&logo=postgresql&logoColor=white) <!-- Teal variation for contrast -->
@@ -121,12 +123,9 @@ Tracks liquidity, yields, volatility, and USD strength to contextualize crypto/i
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-<div align="center">
-  <img src="assets/images/aqua-divider.png" width="100%" alt="Aqua gradient divider line" />
 </div>
 
-### 📊 Activity Snapshot
-
+<br>
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app?user=space-lumps&theme=blue-green&border_radius=10" alt="GitHub Streak" /></a>
 </p>
@@ -138,24 +137,23 @@ Tracks liquidity, yields, volatility, and USD strength to contextualize crypto/i
   />
 </div>
 
-### 📬 Connect & Explore
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/stedmanc"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <picture><img src="https://img.shields.io/badge/Portfolio%20Site%20%E2%80%93%20Coming%20Soon-00BFA5?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Site (Coming Soon)" /></picture>
-</p>
-
-
-
+<br>
 <div align="center">
-  <img src="assets/images/aqua-divider-short.png" width="70%" alt="Aqua gradient divider line" />
+  <img src="assets/images/aqua-divider.png" width="100%" alt="Aqua gradient divider line" />
 </div>
 
 <p align="center">
   <br>
-  <strong>Seeking roles as:</strong><br><br>
+  <strong>Seeking roles:</strong><br><br>
   <picture><img src="https://img.shields.io/badge/Data%20Analyst-00695C?style=flat-square&logoColor=white" alt="Data Analyst"></picture>
   <picture><img src="https://img.shields.io/badge/Product%20Analyst-00695C?style=flat-square&logoColor=white" alt="Product Analyst"></picture>
   <picture><img src="https://img.shields.io/badge/Business%20Analyst-00695C?style=flat-square&logoColor=white" alt="Business Analyst"></picture><br><br>
   <em>Exploring opportunities to deliver reliable data insights, support decision-making, and improve processes.<br>Reach out on LinkedIn — happy to connect!</em> 👋
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/stedmanc"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <picture><img src="https://img.shields.io/badge/Portfolio%20Site%20%E2%80%93%20Coming%20Soon-00BFA5?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Site (Coming Soon)" /></picture>
 </p>
