@@ -1,11 +1,14 @@
-# Ignore macOS junk
+# macOS junk
 .DS_Store
 
-# Ignore temporary editor files
+# Temporary editor files
 .vscode/
 .cursor/
 .idea/
 *.sublime-*
 
-# Ignore old readme versions (my personal archive)
+# Old readme versions (my personal archive)
 old_readmes/
+
+# Temporary/working image drafts
+assets/images/drafts/
