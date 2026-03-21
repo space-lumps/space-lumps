@@ -80,7 +80,7 @@ Provides a single trusted user view for acquisition ROI, LTV segmentation, churn
 
 ### [💹 Macroeconomic Financial Indicators Dashboard](https://github.com/space-lumps/macro-financial-indicators)
 
-[![Macro Dashboard Thumbnail](assets/images/macro-ind-thumbnail-wide.png)](https://space-lumps.github.io/macro-financial-indicators/)
+[![Macro Dashboard Thumbnail](assets/images/macro-ind-thumbnail-3.png)](https://space-lumps.github.io/macro-financial-indicators/)
 
 **Business Value**  
 Tracks liquidity, yields, volatility, and USD strength to contextualize crypto/investment timing and risk — highlights macro tailwinds/headwinds.
