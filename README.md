@@ -25,7 +25,7 @@ I turn complex datasets into clear, decision-ready stories through rigorous clea
 
 End-to-end projects solving real problems — from messy raw data to trusted, impactful analytics.
 
-### [⚕️ Healthcare Analytics (SQL)](https://github.com/space-lumps/healthcare-analytics-sql)
+### ⚕️ [Healthcare Analytics (SQL)](https://github.com/space-lumps/healthcare-analytics-sql)
 <!-- [![Healthcare Analytics Thumbnail](assets/images/healthcare_project.png)](https://github.com/space-lumps/healthcare-analytics-sql) -->
 
 **Business Value**  
@@ -38,7 +38,7 @@ Enables clinical operations and quality teams to identify overdose cohorts, read
 - Risk feature engineering (readmits, meds, mortality flags)
 - Built-in data quality checks for audit reliability
 
-### [🛒 Ecommerce Data Cleaning Pipeline](https://github.com/space-lumps/ecommerce-data-cleaning)
+### 🛒 [Ecommerce Data Cleaning Pipeline](https://github.com/space-lumps/ecommerce-data-cleaning)
 <!-- [![Ecommerce Thumbnail](assets/images/ecommerce_project.png)](https://github.com/space-lumps/ecommerce-data-cleaning) -->
 
 **Business Value**  
@@ -52,7 +52,7 @@ Establishes a clean, trustworthy data foundation for sales, customer, and ops re
 - Automated tests + profiling reports
 - Full portfolio structure: docs, data dictionary, samples
 
-### [💬 User Feedback Sentiment Analysis (BigQuery + LLM)](https://github.com/space-lumps/user-feedback-sentiment-bq)
+### 💬 [User Feedback Sentiment Analysis (BigQuery + LLM)](https://github.com/space-lumps/user-feedback-sentiment-bq)
 <!-- [![Sentiment Thumbnail](assets/images/sentiment_project.png)](https://github.com/space-lumps/user-feedback-sentiment-bq) -->
 
 **Business Value**  
@@ -65,7 +65,7 @@ Converts unstructured feedback into prioritized actions — detects pain points 
 - Trend dashboards and BigQuery-native storage
 - Structured insights from unstructured text
 
-### [👤 User 360 Dimension (dbt + BigQuery)](https://github.com/space-lumps/bigquery-dbt-user-dimension)
+### 👤 [User 360 Dimension (dbt + BigQuery)](https://github.com/space-lumps/bigquery-dbt-user-dimension)
 <!-- [![User 360 Thumbnail](assets/images/user360_project.png)](https://github.com/space-lumps/bigquery-dbt-user-dimension) -->
 
 **Business Value**  
@@ -78,7 +78,7 @@ Provides a single trusted user view for acquisition ROI, LTV segmentation, churn
 - Comprehensive schema tests and quality checks
 - Modular, BI-ready models
 
-### [💹 Macroeconomic Financial Indicators Dashboard](https://github.com/space-lumps/macro-financial-indicators)
+### 💹 [Macroeconomic Financial Indicators Dashboard](https://github.com/space-lumps/macro-financial-indicators)
 
 [![Macro Dashboard Thumbnail](assets/images/macro-ind-thumbnail-2.png)](https://space-lumps.github.io/macro-financial-indicators/)
 
