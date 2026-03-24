@@ -39,7 +39,7 @@ Enables clinical operations and quality teams to identify overdose cohorts, read
 - Built-in data quality checks for audit reliability
 
 ### 🛒 [Ecommerce Data Cleaning Pipeline](https://github.com/space-lumps/ecommerce-data-cleaning)
-<!-- [![Ecommerce Thumbnail](assets/images/ecommerce_project.png)](https://github.com/space-lumps/ecommerce-data-cleaning) -->
+[![Ecommerce Thumbnail](assets/images/ecommerce-thumbnail-revenue-by-state.png)](https://github.com/space-lumps/ecommerce-data-cleaning)
 
 **Business Value**  
 Establishes a clean, trustworthy data foundation for sales, customer, and ops reporting — eliminating downstream errors in trends, segmentation, and forecasting.
