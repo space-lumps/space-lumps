@@ -101,7 +101,8 @@ Tracks liquidity, yields, volatility, and USD strength to contextualize crypto/i
 <div align="center">
 
 #### Languages
-![SQL](https://img.shields.io/badge/SQL-00979C?style=for-the-badge&logo=postgresql&logoColor=white) <!-- Teal variation for contrast -->
+![SQL](https://img.shields.io/badge/SQL-00979C?style=for-the-badge&logo=postgresql&logoColor=white)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 #### Data Libraries
@@ -131,10 +132,7 @@ Tracks liquidity, yields, volatility, and USD strength to contextualize crypto/i
 </p>
 
 <div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=space-lumps&layout=compact&theme=blue-green&hide_progress=false&langs_count=8&border_radius=10" 
-    alt="Top Languages" 
-  />
+  <img src="assets/images/top-langs.svg" alt="Top Languages" />
 </div>
 
 <br>
