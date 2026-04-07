@@ -66,7 +66,7 @@ Enables clinical operations and quality teams to identify overdose cohorts, read
   <source media="(prefers-color-scheme: light)" srcset="assets/images/ecommerce-data-light.png">
   
   <!-- Fallback image (dark version) for older browsers or when media queries aren't supported -->
-  <img src="assets/images/ecommerce-data-dark.png" alt="Healthcare Analytics (SQL) Project Banner" style="width: 100%; max-width: 100%; height: auto;">
+  <img src="assets/images/ecommerce-data-dark.png" alt="Ecommerce Data Cleaning Project Banner" style="width: 100%; max-width: 100%; height: auto;">
 </picture>
 
 **Business Value**
@@ -94,7 +94,7 @@ Establishes a clean, trustworthy data foundation for sales, customer, and ops re
   <source media="(prefers-color-scheme: light)" srcset="assets/images/user-360-light.png">
   
   <!-- Fallback image (dark version) for older browsers or when media queries aren't supported -->
-  <img src="assets/images/user-360-dark.png" alt="Healthcare Analytics (SQL) Project Banner" style="width: 100%; max-width: 100%; height: auto;">
+  <img src="assets/images/user-360-dark.png" alt="User 360 Dimension Project Banner" style="width: 100%; max-width: 100%; height: auto;">
 </picture>
 
 **Business Value**
@@ -121,7 +121,7 @@ Provides a single trusted user view for acquisition ROI, LTV segmentation, churn
   <source media="(prefers-color-scheme: light)" srcset="assets/images/macro-indicators-light.png">
   
   <!-- Fallback image (dark version) for older browsers or when media queries aren't supported -->
-  <img src="assets/images/macro-indicators-dark.png" alt="Healthcare Analytics (SQL) Project Banner" style="width: 100%; max-width: 100%; height: auto;">
+  <img src="assets/images/macro-indicators-dark.png" alt="Macroeconomic Financial Indicators Project Banner" style="width: 100%; max-width: 100%; height: auto;">
 </picture>
 
 **Business Value**
