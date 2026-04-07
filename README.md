@@ -25,8 +25,22 @@ I turn complex datasets into clear, decision-ready stories through rigorous clea
 
 End-to-end projects solving real problems — from messy raw data to trusted, impactful analytics.
 
-### ⚕️ [Healthcare Analytics (SQL)](https://github.com/space-lumps/healthcare-analytics-sql)
-<!-- [![Healthcare Analytics Thumbnail](assets/images/healthcare_project.png)](https://github.com/space-lumps/healthcare-analytics-sql) -->
+---
+
+**⚕️ [Healthcare Analytics (SQL)](https://github.com/space-lumps/healthcare-analytics-sql)**
+
+<!-- Responsive banner that automatically switches between dark and light mode -->
+<!-- GitHub uses the user's system preference or GitHub theme setting -->
+<picture>
+  <!-- Dark mode version (shown first because most GitHub users are in dark mode) -->
+  <source media="(prefers-color-scheme: dark)" srcset="assets/images/healthcare-analytics-dark.png">
+  
+  <!-- Light mode version -->
+  <source media="(prefers-color-scheme: light)" srcset="assets/images/healthcare-analytics-light.png">
+  
+  <!-- Fallback image (dark version) for older browsers or when media queries aren't supported -->
+  <img src="assets/images/healthcare-analytics-dark.png" alt="Healthcare Analytics (SQL) Project Banner" style="width: 100%; max-width: 100%; height: auto;">
+</picture>
 
 **Business Value**  
 Enables clinical operations and quality teams to identify overdose cohorts, readmission risks, and opioid patterns — supporting targeted interventions, better resource use, and outcome monitoring.
@@ -38,10 +52,24 @@ Enables clinical operations and quality teams to identify overdose cohorts, read
 - Risk feature engineering (readmits, meds, mortality flags)
 - Built-in data quality checks for audit reliability
 
-### 🛒 [Ecommerce Data Cleaning Pipeline](https://github.com/space-lumps/ecommerce-data-cleaning)
-[![Ecommerce Thumbnail](assets/images/ecom-data-thumbnail.png)](https://github.com/space-lumps/ecommerce-data-cleaning)
+---
 
-**Business Value**  
+**🛒 [Ecommerce Data Cleaning Pipeline](https://github.com/space-lumps/ecommerce-data-cleaning)**
+
+<!-- Responsive banner that automatically switches between dark and light mode -->
+<!-- GitHub uses the user's system preference or GitHub theme setting -->
+<picture>
+  <!-- Dark mode version (shown first because most GitHub users are in dark mode) -->
+  <source media="(prefers-color-scheme: dark)" srcset="assets/images/ecommerce-data-dark.png">
+  
+  <!-- Light mode version -->
+  <source media="(prefers-color-scheme: light)" srcset="assets/images/ecommerce-data-light.png">
+  
+  <!-- Fallback image (dark version) for older browsers or when media queries aren't supported -->
+  <img src="assets/images/ecommerce-data-dark.png" alt="Healthcare Analytics (SQL) Project Banner" style="width: 100%; max-width: 100%; height: auto;">
+</picture>
+
+**Business Value**
 Establishes a clean, trustworthy data foundation for sales, customer, and ops reporting — eliminating downstream errors in trends, segmentation, and forecasting.
 
 **Tools** · Python, pandas, pytest, GitHub Actions, parquet
@@ -52,23 +80,24 @@ Establishes a clean, trustworthy data foundation for sales, customer, and ops re
 - Automated tests + profiling reports
 - Full portfolio structure: docs, data dictionary, samples
 
-### 💬 [User Feedback Sentiment Analysis (BigQuery + LLM)](https://github.com/space-lumps/user-feedback-sentiment-bq)
-<!-- [![Sentiment Thumbnail](assets/images/sentiment_project.png)](https://github.com/space-lumps/user-feedback-sentiment-bq) -->
+---
 
-**Business Value**  
-Converts unstructured feedback into prioritized actions — detects pain points early, tracks negative trends, correlates sentiment to satisfaction/churn metrics.
+**👤 [User 360 Dimension (dbt + BigQuery)](https://github.com/space-lumps/bigquery-dbt-user-dimension)**
 
-**Tools** · Python, BigQuery, SQL, LLM integration, visualization
+<!-- Responsive banner that automatically switches between dark and light mode -->
+<!-- GitHub uses the user's system preference or GitHub theme setting -->
+<picture>
+  <!-- Dark mode version (shown first because most GitHub users are in dark mode) -->
+  <source media="(prefers-color-scheme: dark)" srcset="assets/images/user-360-dark.png">
+  
+  <!-- Light mode version -->
+  <source media="(prefers-color-scheme: light)" srcset="assets/images/user-360-light.png">
+  
+  <!-- Fallback image (dark version) for older browsers or when media queries aren't supported -->
+  <img src="assets/images/user-360-dark.png" alt="Healthcare Analytics (SQL) Project Banner" style="width: 100%; max-width: 100%; height: auto;">
+</picture>
 
-**Highlights**
-- Scalable automated sentiment scoring
-- Trend dashboards and BigQuery-native storage
-- Structured insights from unstructured text
-
-### 👤 [User 360 Dimension (dbt + BigQuery)](https://github.com/space-lumps/bigquery-dbt-user-dimension)
-<!-- [![User 360 Thumbnail](assets/images/user360_project.png)](https://github.com/space-lumps/bigquery-dbt-user-dimension) -->
-
-**Business Value**  
+**Business Value**
 Provides a single trusted user view for acquisition ROI, LTV segmentation, churn risk by channel/location — powers marketing optimization and retention.
 
 **Tools** · dbt, BigQuery, SQL, YAML, CI/CD
@@ -78,11 +107,24 @@ Provides a single trusted user view for acquisition ROI, LTV segmentation, churn
 - Comprehensive schema tests and quality checks
 - Modular, BI-ready models
 
-### 💹 [Macroeconomic Financial Indicators Dashboard](https://github.com/space-lumps/macro-financial-indicators)
+---
 
-[![Macro Dashboard Thumbnail](assets/images/macro-ind-thumbnail-2.png)](https://space-lumps.github.io/macro-financial-indicators/)
+**💹 [Macroeconomic Financial Indicators Dashboard](https://space-lumps.github.io/macro-financial-indicators/)**
 
-**Business Value**  
+<!-- Responsive banner that automatically switches between dark and light mode -->
+<!-- GitHub uses the user's system preference or GitHub theme setting -->
+<picture>
+  <!-- Dark mode version (shown first because most GitHub users are in dark mode) -->
+  <source media="(prefers-color-scheme: dark)" srcset="assets/images/macro-indicators-dark.png">
+  
+  <!-- Light mode version -->
+  <source media="(prefers-color-scheme: light)" srcset="assets/images/macro-indicators-light.png">
+  
+  <!-- Fallback image (dark version) for older browsers or when media queries aren't supported -->
+  <img src="assets/images/macro-indicators-dark.png" alt="Healthcare Analytics (SQL) Project Banner" style="width: 100%; max-width: 100%; height: auto;">
+</picture>
+
+**Business Value**
 Tracks liquidity, yields, volatility, and USD strength to contextualize crypto/investment timing and risk — highlights macro tailwinds/headwinds.
 
 **Tools** · JavaScript, Chart.js, automation, static site
@@ -91,8 +133,6 @@ Tracks liquidity, yields, volatility, and USD strength to contextualize crypto/i
 - Time-series charts with crypto-relevant explanations
 - Daily automated updates
 - Clean, public-facing design
-
-<br>
 
 <div align="center">
   <img src="assets/images/aqua-divider.png" width="100%" alt="Aqua gradient divider line" />
@@ -132,7 +172,7 @@ Tracks liquidity, yields, volatility, and USD strength to contextualize crypto/i
 </p>
 
 <div align="center">
-  <img src="assets/images/top-langs.svg" alt="Top Languages" />
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="assets/images/top-langs.svg" alt="Top Languages" /></a>
 </div>
 
 <br>
