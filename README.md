@@ -3,7 +3,7 @@
     Hi, I'm Corin ("ker-RIN")
   </h1>
 
-<h4>✦ Data Analyst ✦</h4>
+<h4>✦ Data Analyst & Analytics Engineer ✦</h4>
 
   <p>
     <img
@@ -185,7 +185,8 @@ Tracks liquidity, yields, volatility, and USD strength to contextualize crypto/i
   <strong>Seeking roles:</strong><br><br>
   <picture><img src="https://img.shields.io/badge/Data%20Analyst-00695C?style=flat-square&logoColor=white" alt="Data Analyst"></picture>
   <picture><img src="https://img.shields.io/badge/Product%20Analyst-00695C?style=flat-square&logoColor=white" alt="Product Analyst"></picture>
-  <picture><img src="https://img.shields.io/badge/Business%20Analyst-00695C?style=flat-square&logoColor=white" alt="Business Analyst"></picture><br><br>
+  <picture><img src="https://img.shields.io/badge/Business%20Analyst-00695C?style=flat-square&logoColor=white" alt="Business Analyst"></picture><picture><img src="https://img.shields.io/badge/Analytics%20Engineer-00695C?style=flat-square&logoColor=white" alt="Analytics Engineer"></picture>
+  <br><br>
   <em>Exploring opportunities to deliver reliable data insights, support decision-making, and improve processes.<br>Reach out on LinkedIn — happy to connect!</em> 👋
 </p>
 
